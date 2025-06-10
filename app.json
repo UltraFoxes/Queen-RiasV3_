@@ -9,7 +9,7 @@
   "env": {
     "PREFIX": {
       "description": "Command prefix for the bot.",
-      "value": "."
+      "value": ""
     },
     "OWNER_NAME": {
       "description": "Bot owner's name.",
@@ -21,7 +21,7 @@
     },
     "MODE": {
       "description": "Bot mode (public/private).",
-      "value": "public"
+      "value": "private"
     },
     "BOT_NAME": {
       "description": "Name of the bot.",
